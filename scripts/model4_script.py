@@ -65,7 +65,4 @@ print(f"ROC-AUC: {roc_auc:.2f}")
 print("Confusion Matrix:")
 print(conf_matrix)
 
-# Save Confusion Matrix as a CSV
-conf_matrix_path = os.path.join(output_dir, "confusion_matrix_model4.csv")
-pd.DataFrame(conf_matrix, index=["Actual_0", "Actual_1"], columns=["Predicted_0", "Predicted_1"]).to_csv(conf_matrix_path)
-print(f"Confusion matrix saved to {conf_matrix_path}.")
+
