@@ -12,7 +12,7 @@ The following methods are used in this project:
 
 ---
 
-## Project Structure
+## Repository Structure
 
 ### **Folders and Files**
 - **`data/`**: Place all datasets here. The primary dataset used is `FL_HeavyMetalMaster_111824_MissingRemoved.csv`.
