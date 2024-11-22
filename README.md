@@ -1,4 +1,4 @@
-# Heavy Metal Analysis
+# Heavy Metal Mixture Analysis
 
 A statistical analysis of heavy metal mixtures and their association with disease outcomes. This project uses logistic regression and other techniques to explore the relationships between heavy metal exposure and disease outcomes.
 
